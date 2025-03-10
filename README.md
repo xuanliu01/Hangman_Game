@@ -9,7 +9,7 @@ Python
 
 ## Key Learnings
 - Problem Solving: The project enhances the ability to break down a problem into smaller tasks.
-- Conditional Logic: It strengthens the understanding of conditionals suan as if/else statements.
+- Conditional Logic: It strengthens the understanding of conditionals such as if/else statements.
 - Loops: Become more comfortable using loops to repeat actions until a specific condition is met.
 - Game Flow Design: The game involves creating an enjoyable flow from prompting the user to enter guesses to providing feedback. 
 
